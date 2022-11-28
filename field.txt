@@ -6,5 +6,9 @@ This is the field txt indeed a field txt
 this si a fjalksjdflkadfkjasdfjlajf
 hello this is me 
 
+<<<<<<< HEAD
 
 hahaha
+=======
+this is should require the fetch command
+>>>>>>> c1e60a35232381769d741d88679ef522eaf3796e
